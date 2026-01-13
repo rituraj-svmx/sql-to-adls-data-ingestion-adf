@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy data1",
+				"name": "SQL-ADLS-Gen2-PL",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {

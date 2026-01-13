@@ -1,0 +1,9 @@
+{
+	"name": "ingestmysqldbfactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "754dbe9c-e380-4f96-84b3-89a5c4bef65b",
+		"tenantId": "202d51f8-5ae2-4d0b-922b-4c6cb1a2fc3f"
+	}
+}
